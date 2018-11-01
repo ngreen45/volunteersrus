@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0D25C4CB-224A-44A4-B307-B2787FF71E50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 338,
+    "x": 19,
+    "y": 68.5499999999999
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "61EF2E65-75A3-4045-9443-7BF7C65467B3"
+    },
+    {
+      "class": "rectangle",
+      "id": "FF643F85-18FF-495D-A20D-AE1E361045FC"
+    },
+    {
+      "class": "rectangle",
+      "id": "40E91956-15DF-4A3E-961D-59DFF01B3D41"
+    },
+    {
+      "class": "text",
+      "id": "02A103CC-1219-4CE7-9D0C-0E99667C6E7E"
+    }
+  ],
+  "name": "Search bar Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96EC795F-3C51-4561-804F-5B4EA3ABCE8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 107,
+    "x": 69,
+    "y": 595.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ACB59044-9B2C-49E6-81FF-7796EAB46E30"
+    },
+    {
+      "class": "bitmap",
+      "id": "199F8BEE-F904-44E6-AE26-D9EB7DADA19E"
+    },
+    {
+      "class": "shapePath",
+      "id": "895D3C50-AABB-47EB-B017-343FACF26F43"
+    },
+    {
+      "class": "text",
+      "id": "9774E5EF-DFED-4E5A-8584-40FC29AD0A0D"
+    }
+  ],
+  "name": "Facebook Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

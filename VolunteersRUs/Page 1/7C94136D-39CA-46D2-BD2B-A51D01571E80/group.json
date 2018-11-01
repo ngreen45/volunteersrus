@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C94136D-39CA-46D2-BD2B-A51D01571E80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D953567A-24BD-4353-981A-803204980199",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7357099-05DA-404F-BD74-E070850A63FE",
+    "height": 223,
+    "width": 238,
+    "x": -1097,
+    "y": 1657
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "FEAA752D-50A1-4853-A15A-888F0979608D"
+    },
+    {
+      "class": "oval",
+      "id": "84391B40-5CAF-4280-8F17-0A9B054A3E0D"
+    },
+    {
+      "class": "text",
+      "id": "CF8FDA95-0867-4F36-B937-26400AAA7F6A"
+    },
+    {
+      "class": "text",
+      "id": "A5713088-DE8B-4210-AB76-7764049BD340"
+    },
+    {
+      "class": "text",
+      "id": "0792157A-C607-477F-A3F7-6FD2CAE65F13"
+    },
+    {
+      "class": "text",
+      "id": "AE6F8710-631B-462B-AF5E-78D197B925DB"
+    }
+  ],
+  "name": "VRU Logo Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B1986FC-4089-4814-BFB9-283BA77F3935",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

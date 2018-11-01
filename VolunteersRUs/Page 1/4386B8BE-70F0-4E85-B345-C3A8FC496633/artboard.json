@@ -1,0 +1,197 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4386B8BE-70F0-4E85-B345-C3A8FC496633",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 1163,
+    "y": 1486
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7DAD7961-D599-48D1-A1D4-0FE73D1397E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "DDC6DA78-AFA5-47FA-815D-0A0F09944749"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E41C4C6-837E-4D37-845F-56B76C36CABA"
+    },
+    {
+      "class": "rectangle",
+      "id": "98572636-7F5E-4A05-B21D-4558D0AEB1B7"
+    },
+    {
+      "class": "shapePath",
+      "id": "3052B46A-D046-4139-9EAB-11DB7F261779"
+    },
+    {
+      "class": "shapePath",
+      "id": "6FCC832A-BD0F-4D30-B684-3B030E7B569D"
+    },
+    {
+      "class": "bitmap",
+      "id": "9A47334F-D7EE-4C7F-B3BE-6C91298A6CC9"
+    },
+    {
+      "class": "bitmap",
+      "id": "6E4A9D99-381B-4A2E-BB61-54DCCE596A03"
+    },
+    {
+      "class": "bitmap",
+      "id": "2495DCC3-4BDA-458A-BB3A-1504B460DFB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "86F1DD4F-CC38-4445-8272-20D80BD43075"
+    },
+    {
+      "class": "shapePath",
+      "id": "B58EE948-5B0D-42B5-B51C-2D5FC2BEAEDE"
+    },
+    {
+      "class": "text",
+      "id": "7E11BE4A-8F10-4758-948E-667C272E77F0"
+    },
+    {
+      "class": "rectangle",
+      "id": "D756A9F1-B898-40F1-A167-A65AC40CC31B"
+    },
+    {
+      "class": "text",
+      "id": "CCDACC1A-DFB7-48C9-A2C6-A9C73477F2B9"
+    },
+    {
+      "class": "text",
+      "id": "FBA765E4-547D-44AC-84A0-4FD6AC07BA41"
+    },
+    {
+      "class": "text",
+      "id": "6FE013B9-FD8B-48D1-BD46-80DEEB931B11"
+    },
+    {
+      "class": "rectangle",
+      "id": "E558F8FF-4C1B-4B52-A9D3-F941244305D3"
+    },
+    {
+      "class": "text",
+      "id": "02BE0F8D-2442-4802-AE3F-EBFA7B77030C"
+    },
+    {
+      "class": "text",
+      "id": "814FF4F9-E65F-42EE-8541-68B4481EB9E7"
+    },
+    {
+      "class": "rectangle",
+      "id": "63295EF9-249C-4DDE-963B-2C93B18F4270"
+    },
+    {
+      "class": "text",
+      "id": "093ABE27-9D2C-49C6-90FC-84E5F20AF303"
+    },
+    {
+      "class": "text",
+      "id": "2FBBB125-DDFC-4A6E-9A89-F6A6D853F458"
+    },
+    {
+      "class": "rectangle",
+      "id": "85DB9DE4-1740-45E5-8126-AE4AFB5C3FB2"
+    },
+    {
+      "class": "rectangle",
+      "id": "D40AC4AD-B65E-49A7-A70A-3664408603B6"
+    },
+    {
+      "class": "rectangle",
+      "id": "DF2B2B09-4A33-4A85-A4BD-6AF2CFC98CEA"
+    },
+    {
+      "class": "rectangle",
+      "id": "EB36C161-D1E3-4D98-8783-58BA2C5DCD74"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C57FE18-660A-4418-A90C-782A5E745484"
+    },
+    {
+      "class": "text",
+      "id": "D3254F74-E444-4AA8-A4A8-7EC5A9B998BE"
+    },
+    {
+      "class": "bitmap",
+      "id": "AC1F3D1D-E6EB-47B0-8E76-A5CB88439395"
+    },
+    {
+      "class": "group",
+      "id": "9C824F86-4942-4E14-B0A5-248493E66BF6"
+    }
+  ],
+  "name": "New Search Page",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C84B6A4-C8E4-48DF-A13D-8A9BBAD4773C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D4522EBC-2AB8-4922-916A-B4F7ABB4AE0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FAB5EA22-9567-40A6-8C63-5803B4ACFBD0",
+    "height": 10,
+    "width": 10,
+    "x": 110,
+    "y": 41
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BBC66184-82BA-470C-8646-DC478AA87088"
+    },
+    {
+      "class": "shapePath",
+      "id": "338D4F92-6FFF-421B-9A68-ED2D7A42B996"
+    }
+  ],
+  "name": "icon_ios_back",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "81FB1B1B-2A8B-48ED-B0C2-261D93DC27CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
